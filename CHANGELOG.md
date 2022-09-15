@@ -1,5 +1,11 @@
 #   ChangeLog
 
+## v5.0
+
+### v5.0.1
+ - Drop php7 support
+ - update depedencies versions
+
 ##  v2.1
 Laravel Facade Usage integrated into the package.
 
